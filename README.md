@@ -13,7 +13,7 @@ This is an awesome reading list for intuitive physics raning from cognitive stud
 * [Kevin Smith](http://www.mit.edu/~k2smith/),  **MIT**, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/).
 * [Peter Battaglia](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en), **DeepMind**.
 * [Jiajun Wu](https://jiajunwu.com/), **Stanford**, [Stanford Vision and Learning Lab (SVL)](https://svl.stanford.edu/).
-* [Tomer Ullman](https://www.tomerullman.org/), **Princeton**, [Computation, Cognition, and Development Lab (CoCoDev)](https://cocodev.fas.harvard.edu/)
+* [Tomer Ullman](https://www.tomerullman.org/), **Harvard**, [Computation, Cognition, and Development Lab (CoCoDev)](https://cocodev.fas.harvard.edu/)
 
 ## Survey
 * [Intuitive Physics: Current Research and Controversies](https://yzhu.io/courses/core/reading/03.james.pdf), **TiCS 2018**. Hongjing Lu's review on intuitive physics.
