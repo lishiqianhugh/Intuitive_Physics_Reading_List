@@ -11,9 +11,15 @@ This is an awesome reading list for intuitive physics raning from cognitive stud
 ## Researchers
 * [Josh Tenenbaum](https://cocosci.mit.edu/josh), **MIT**, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/).
 * [Kevin Smith](http://www.mit.edu/~k2smith/),  **MIT**, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/).
-* [Peter Battaglia](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en), **DeepMind**.
+* [Peter Battaglia](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ), **DeepMind**.
 * [Jiajun Wu](https://jiajunwu.com/), **Stanford**, [Stanford Vision and Learning Lab (SVL)](https://svl.stanford.edu/).
 * [Tomer Ullman](https://www.tomerullman.org/), **Harvard**, [Computation, Cognition, and Development Lab (CoCoDev)](https://cocodev.fas.harvard.edu/)
+* [Judith Fan](https://scholar.google.com/citations?user=NjZsLZwAAAAJ), **UCSD->Stanford**, [Cognitive Tools Lab](https://cogtoolslab.github.io/)
+* [Todd Gureckis](https://todd.gureckislab.org), **NYU**, [Computation & Cognition Lab](https://gureckislab.org/)
+* [Ernest Davis](https://cs.nyu.edu/~davise), **NYU**.
+* [Yixin Zhu](https://yzhu.io), **PKU**, [Cognitive Reasoning Lab (CoRe)](https://pku.ai/)
+* [Ilker Yildirim](https://psychology.yale.edu/people/ilker-yildirim), **Yale**, [Cognitive & Neural Computation Lab (CNCL)](http://cncl.yale.edu)
+
 
 ## Survey
 * [Intuitive Physics: Current Research and Controversies](https://yzhu.io/courses/core/reading/03.james.pdf), **TiCS 2018**. Hongjing Lu's review on intuitive physics.
