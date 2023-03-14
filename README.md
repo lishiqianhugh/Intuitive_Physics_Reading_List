@@ -37,6 +37,7 @@ This is an awesome reading list for intuitive physics raning from cognitive stud
 * [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf), **NeurIPS 2016**. The first physical dynamics prediction approach with relation modeling between physical objects.
 
 ## Intervene in the Physical Environment
+* [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zhu_Understanding_Tools_Task-Oriented_2015_CVPR_paper.pdf), **CVPR 2015**. A framework to understand tool use by learning essential physical concepts from one rational RGB-D video.
 * [PHYRE: A New Benchmark for Physical Reasoning](https://arxiv.org/pdf/1908.05656.pdf), **NeurIPS 2019**. A physical reasoning benchmark studying how to reach a goal by placing balls in the scenes.
 * [Rapid Trial-and-error Learning with Simulation Supports Flexible Tool Use and Physical Reasoning](https://www.pnas.org/doi/10.1073/pnas.1912341117), **PNAS 2020**. A physical reasoning benchmark similar to PHYRE studying how to reach a goal by placing various tools in the scenes.
 * [On the Learning Mechanisms in Physical Reasoning](https://arxiv.org/pdf/2210.02075.pdf), **NeurIPS 2022**. A meta-analysis of the learning mechanisms in solving PHYRE-like physical reasoning problems.
