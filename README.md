@@ -20,6 +20,7 @@ This is an awesome reading list for intuitive physics raning from cognitive stud
 * [Yixin Zhu](https://yzhu.io), **PKU**, [Cognitive Reasoning Lab (CoRe)](https://pku.ai/)
 * [Ilker Yildirim](https://psychology.yale.edu/people/ilker-yildirim), **Yale**, [Cognitive & Neural Computation Lab (CNCL)](http://cncl.yale.edu)
 * [Joseph Lim](https://clvrai.com/web_lim/), **USC->KAIST**, [Cognitive Learning for Vision and Robotics Lab (CLVR)](https://www.clvrai.com/)
+* [Kenneth D. Forbus](https://users.cs.northwestern.edu/~forbus/), **Northwestern University**, [Qualitative Reasoning Group (QRG)](https://www.qrg.northwestern.edu/)
 
 ## Survey
 * [Intuitive Physics: Current Research and Controversies](https://yzhu.io/courses/core/reading/03.james.pdf), **TiCS 2018**. Hongjing Lu's review on intuitive physics.
