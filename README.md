@@ -30,6 +30,7 @@ This is an awesome reading list for intuitive physics raning from cognitive stud
 ## Understand Physical Commonsense
 * [Object permanence in 3 1/2-and 4 1/2-month-old infants](http://labs.psychology.illinois.edu/ICL/articles.old/baillargeon1987.pdf.pdf), **Psychol 1987**. A psycological study to test object permanence in infants using the VoE paradigm (look longer at the impossible events).
 * [Intuitive Physics Learning in a Deep-learning Model Inspired by Developmental Psychology](https://www.nature.com/articles/s41562-022-01394-8), **Nature Human Behaviour 2022**. A computational study that introduces a deep model to learn physical concepts in the VoE paradigm.
+* [X-VoE: Measuring eXplanatory Violation of Expectation in Physical Events](https://openaccess.thecvf.com/content/ICCV2023/papers/Dai_X-VoE_Measuring_eXplanatory_Violation_of_Expectation_in_Physical_Events_ICCV_2023_paper.pdf), **ICCV 2023**. A comprehensive benchmark to assess AI's grasp of intuitive physics with explanatory capacities.
 
 ## Predict Physical Events
 * [Simulation as an Engine of Physical Scene Understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf), **PNAS 2013**. The first attempt to computationally verify intuitive physics engine with simulation.
@@ -42,3 +43,4 @@ This is an awesome reading list for intuitive physics raning from cognitive stud
 * [PHYRE: A New Benchmark for Physical Reasoning](https://arxiv.org/pdf/1908.05656.pdf), **NeurIPS 2019**. A physical reasoning benchmark studying how to reach a goal by placing balls in the scenes.
 * [Rapid Trial-and-error Learning with Simulation Supports Flexible Tool Use and Physical Reasoning](https://www.pnas.org/doi/10.1073/pnas.1912341117), **PNAS 2020**. A physical reasoning benchmark similar to PHYRE studying how to reach a goal by placing various tools in the scenes.
 * [On the Learning Mechanisms in Physical Reasoning](https://arxiv.org/pdf/2210.02075.pdf), **NeurIPS 2022**. A meta-analysis of the learning mechanisms in solving PHYRE-like physical reasoning problems.
+* [I-PHYRE: Interactive Physical Reasoning](https://arxiv.org/abs/2312.03009), **ICLR 2024**. A challenging benchmark to address real-time interactivity in physical reasoning.
