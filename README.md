@@ -37,6 +37,7 @@ This is an awesome reading list for intuitive physics raning from cognitive stud
 * [Functional Neuroanatomy of Intuitive Physical Inference](https://www.pnas.org/doi/pdf/10.1073/pnas.1610344113), **PNAS 2016**. A piece of evidence for the functional part of intuitive physics engine in human brain.
 * [Learning Physical Intuition of Block Towers by Example](https://arxiv.org/abs/1603.01312), **ICML 2016**. A learning approach using CNN to predict whether and how the block towers will fall.
 * [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf), **NeurIPS 2016**. The first physical dynamics prediction approach with relation modeling between physical objects.
+* [Neural Foundations of Mental Simulation: Future Prediction of Latent Representations on Dynamic Scenes](https://proceedings.neurips.cc/paper_files/paper/2023/file/df438caa36714f69277daa92d608dd63-Paper-Conference.pdf), **NeurIPS 2023**. An AI+Neuroscience study discussing different modeling methods in physical prediction with behavior and neural dynamic evidence.
 
 ## Intervene in the Physical Environment
 * [Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zhu_Understanding_Tools_Task-Oriented_2015_CVPR_paper.pdf), **CVPR 2015**. A framework to understand tool use by learning essential physical concepts from one rational RGB-D video.
